@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-13T14:15:18.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="DRBItC52ydt_gSjDQ4f-" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T01:47:49.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="zVsaFI7QlUwMrvF101uZ" version="12.2.4" type="github" pages="1">
   <diagram id="LbfjbL-VU-mwWU4hzzWh" name="Page-1">
     <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,10 +81,10 @@
         <mxCell id="Pgq7_gIwRi6CvvlSiT4U-29" value="call deal reg to check dealreg protection ( be optional for Sales)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="375" width="350" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Pgq7_gIwRi6CvvlSiT4U-30" value="Quotation Page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pgq7_gIwRi6CvvlSiT4U-30" value="Quotation Page" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-150" y="15" width="120" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="Pgq7_gIwRi6CvvlSiT4U-31" value="Quotation Cart page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pgq7_gIwRi6CvvlSiT4U-31" value="Quotation Cart page" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-180" y="650" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Pgq7_gIwRi6CvvlSiT4U-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pgq7_gIwRi6CvvlSiT4U-32" target="Pgq7_gIwRi6CvvlSiT4U-44">
@@ -151,7 +151,7 @@
         <mxCell id="Pgq7_gIwRi6CvvlSiT4U-56" value="DPC/PPC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="530" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="Pgq7_gIwRi6CvvlSiT4U-58" value="launch catalog UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Pgq7_gIwRi6CvvlSiT4U-58" value="&lt;font color=&quot;#ff0000&quot;&gt;launch catalog UI&lt;/font&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="580" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Pgq7_gIwRi6CvvlSiT4U-60" value="add product to quote cart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
