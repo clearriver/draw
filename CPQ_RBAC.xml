@@ -1,1 +1,64 @@
-<mxfile host="www.draw.io" modified="2019-11-22T10:07:18.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.6" etag="C2p4j3WPQttwRoRJN0e4" type="github" pages="1"><diagram id="N5dYYQI40g-Y8Ks3ybmF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-22T10:42:33.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="MOkPRqLe4F6ViCWrDthM" version="12.2.9" type="github" pages="1">
+  <diagram id="N5dYYQI40g-Y8Ks3ybmF" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="__HskTLO5l5hIhwMPCex-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="301" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-4" value="Partner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-5" value="Sales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-6" value="Sales Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-7" value="Pricer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="442" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-8" value="Pricer Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-9" value="CFO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-10" value="VP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-12" value="&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="331" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="422" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="560" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="669" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-16" value="DISCOUNT-CODE.CREATE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-17" value="DISCOUNT_EDITOR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-20" value="DISCOUNT-CODE.EDIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-21" value="DISCOUNT-CODE.VIEW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="__HskTLO5l5hIhwMPCex-22" value="DISCOUNT_APPROVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="110" width="160" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
