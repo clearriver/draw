@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-09T07:07:52.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="IiUYnddgyu7EDyEtY9HQ" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2020-02-08T05:22:52.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="PbV3Lk-cEH6Al4knUAw6" version="12.6.6" type="github">
   <diagram id="T5MHCXTCQfMZgcrtsp8h" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="VJsiWCLrTI7AkrHofhCP-26" value="sales" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="805" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="R3DYCzeyXL6qhH-TIy0q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJsiWCLrTI7AkrHofhCP-27" target="VJsiWCLrTI7AkrHofhCP-26">
+        <mxCell id="R3DYCzeyXL6qhH-TIy0q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VJsiWCLrTI7AkrHofhCP-27" target="VJsiWCLrTI7AkrHofhCP-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="900" as="targetPoint"/>
             <Array as="points">
@@ -132,7 +132,7 @@
         <mxCell id="VJsiWCLrTI7AkrHofhCP-28" value="sales manager" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="700" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="R3DYCzeyXL6qhH-TIy0q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJsiWCLrTI7AkrHofhCP-29" target="VJsiWCLrTI7AkrHofhCP-27">
+        <mxCell id="R3DYCzeyXL6qhH-TIy0q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VJsiWCLrTI7AkrHofhCP-29" target="VJsiWCLrTI7AkrHofhCP-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="1000" as="targetPoint"/>
           </mxGeometry>
@@ -146,8 +146,14 @@
         <mxCell id="VJsiWCLrTI7AkrHofhCP-42" value="pricer manager" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="510" width="120" height="80" as="geometry"/>
         </mxCell>
+        <mxCell id="pNPnfK-KP3yzLHPtw82I-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.428;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VJsiWCLrTI7AkrHofhCP-47" target="pNPnfK-KP3yzLHPtw82I-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="VJsiWCLrTI7AkrHofhCP-47" value="Sales CFO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="662.5" y="395" width="125" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="pNPnfK-KP3yzLHPtw82I-1" value="VP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671.5" y="280" width="125" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
