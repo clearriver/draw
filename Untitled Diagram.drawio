@@ -1,1 +1,94 @@
-<mxfile host="www.draw.io" modified="2020-02-12T07:23:07.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.6.6" etag="8pAHjrWIV9LYQsqqkFUO" type="github"><diagram id="Un4nROwnM_vGvisufUaB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-04T00:31:20.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="YNDRIxfg_UXB60j-tYYP" version="12.7.0" type="github">
+  <diagram id="Un4nROwnM_vGvisufUaB" name="Page-1">
+    <mxGraphModel dx="1020" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="150" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-3" value="Sleuth&lt;br&gt;链路监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="80" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-4" value="Monitor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="95" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-5" value="Turbine&lt;br&gt;集群监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-6" value="Hystrix&lt;br&gt;熔断保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-7" value="Admin&lt;br&gt;服务监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-8" value="Druid&lt;br&gt;SQL监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="360" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-9" value="CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-10" value="Zull服务网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-11" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="470" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-13" value="Spring Cloud Security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="109" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-14" value="Oauth2 + JWT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="150" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-15" value="Ribbon服务负载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-16" value="Fegin服务声明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="109" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-17" value="Micro Service A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="144" width="290" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-18" value="Micro Service B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="163" width="290" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-19" value="Micro Service C....n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="185" width="290" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="241" width="470" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-21" value="Spring Cloud Bus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="260" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-22" value="Kafuka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-23" value="MQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="260" width="75" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-24" value="Activiti" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="75" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-25" value="Spring Cloud Task&lt;br&gt;任务调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="310" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-28" value="Spring Cloud Data Flow&lt;br&gt;大数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-29" value="Spring Cloud Stream&lt;br&gt;数据流操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="310" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="430" width="469" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWRWHYo5O7szv0tGPj56-32" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="80" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
