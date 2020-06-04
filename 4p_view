@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T11:10:48.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="vgzY130MVCuCCUzhMWRF" version="13.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T11:24:31.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Szo_Lx-BZrL8w6NKiklv" version="13.0.6" type="github">
   <diagram id="3wBr_9dyUfROlhEXSIYv" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="130" y="320" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-13" value="Sent to Pricer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="380" width="80" height="30" as="geometry" />
+          <mxGeometry x="235" y="390" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2rSeP1TlLa-BsSiyfycp-16" target="2rSeP1TlLa-BsSiyfycp-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,19 +47,16 @@
           <mxGeometry x="50" y="480" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-18" value="Approve" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="55" y="380" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="360" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-19" value="Reject" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="380" width="50" height="30" as="geometry" />
+          <mxGeometry x="150" y="390" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="630" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-22" value="Pricer Approve" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="640" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2rSeP1TlLa-BsSiyfycp-23" value="Sent to Pricer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-24" value="Cost Relief" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="700" width="70" height="30" as="geometry" />
@@ -68,7 +65,7 @@
           <mxGeometry x="155" y="700" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2rSeP1TlLa-BsSiyfycp-29" value="Cost Relief" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="340" width="70" height="30" as="geometry" />
+          <mxGeometry x="50" y="390" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
